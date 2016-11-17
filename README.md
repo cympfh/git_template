@@ -1,6 +1,7 @@
 # ~/.git_template
 
-```
+```bash
+git clone this/git_template.git ~/.git_template
 git config --global init.templatedir ~/.git_template
 ```
 
